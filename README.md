@@ -10,3 +10,7 @@ O [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2
 O dataset que vocês vão usar já está formatado e aqui no repositório, para acessar ele [clique aqui](https://github.com/lay127/PORTA/blob/main/dataset-spotify-v1.xlsx)!  
 
 Boa sorte para vocês! Que esse curso ajude vocês a terem uma visão do Excel na realidade e que a nossa visão de dados possa ser útil para vcs 💙
+
+E para finalizar deixo aqui para vocês um [jogo no kahoot](https://create.kahoot.it/details/fabb704d-eedd-4955-abcb-24c1c9a109df)! Espero que gostem.
+
+Foi incrivel trabalhar com vocês esse mês.
